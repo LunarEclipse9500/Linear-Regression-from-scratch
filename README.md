@@ -5,3 +5,5 @@ This was a hobby project for me to better understand the concepts of Data Manipu
 - Plotting Graphs and Heatmap
 - Implemented Linear Regression Algorithm
 - Model training, optimization and testing
+
+Original Dataset: https://www.kaggle.com/datasets/gauravbr/multiple-linear-regression-housing-price-detection
